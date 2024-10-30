@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test_mento/static/css/main.35ee2f50.css",
-    "main.js": "/test_mento/static/js/main.5cb642ed.js",
+    "main.js": "/test_mento/static/js/main.600a9fbf.js",
     "index.html": "/test_mento/index.html",
     "main.35ee2f50.css.map": "/test_mento/static/css/main.35ee2f50.css.map",
-    "main.5cb642ed.js.map": "/test_mento/static/js/main.5cb642ed.js.map"
+    "main.600a9fbf.js.map": "/test_mento/static/js/main.600a9fbf.js.map"
   },
   "entrypoints": [
     "static/css/main.35ee2f50.css",
-    "static/js/main.5cb642ed.js"
+    "static/js/main.600a9fbf.js"
   ]
 }
