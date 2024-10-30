@@ -1,0 +1,16 @@
+{
+  "defindMessages": [
+    {
+      "Role": 0,
+      "Message": "조건에맞는 DALL-E 이미지 프롬프트를 만들어주는데 무조건 영어프롬프트랑 한국어 프롬프트 2가지로 알려줘"
+    },
+    {
+      "Role": 1,
+      "Message": "스마트팜, illustration design"
+    },
+    {
+      "Role": 2,
+      "Message": "영어 프롬프트 : Create an illustration design of a smart farm. The smart farm is a modern agricultural facility with advanced technologies. It features a controlled environment where crops and plants are growing optimally. The farm is equipped with automated systems, sensors, and robotics to monitor and manage the cultivation process. Show the integration of technology and agriculture in the illustration, highlighting the futuristic elements and sustainability practices. Let your creativity flow to portray a visually appealing and innovative smart farm. 한국어 프롬프트 : 스마트팜에 대한 일러스트 디자인을 만들어주세요. 스마트팜은 현대적인 농업 시설로, 최첨단 기술이 도입되어 있습니다. 작물과 식물들이 최적으로 자라는 조절된 환경을 갖추고 있습니다. 자동화 시스템, 센서 및 로봇 기술이 적용된 스마트팜은 재배 과정을 모니터링하고 관리하기 위해 사용됩니다. 일러스트로 기술과 농업의 통합을 나타내며 미래 지향적인 요소와 지속 가능한 농업 기법을 강조해주세요. 창의력을 발휘하여 시각적으로 매력적이고 혁신적인 스마트팜을 그려주세요."
+    }
+  ]
+}
